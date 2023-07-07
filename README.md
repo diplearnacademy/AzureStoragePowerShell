@@ -1,4 +1,4 @@
-﻿**Laboratorio: Cómo subir archivos a un contenedor en Azure utilizando PowerShell en 5 pasos**
+﻿*Laboratorio: Cómo subir archivos a un contenedor en Azure utilizando PowerShell en 5 pasos*
 
 **Objetivo** El objetivo de este laboratorio es aprender cómo subir archivos a un contenedor en Azure utilizando PowerShell.
 
@@ -30,7 +30,7 @@ Ahora estás listo para utilizar los cmdlets y comandos proporcionados por el m�
 
 powershell code
 
-Connect-AzAccount 
+```Connect-AzAccount```
 
 **Paso 2: Creación de un grupo de recursos** A continuación, crearemos un grupo de recursos en Azure utilizando el siguiente comando:
 

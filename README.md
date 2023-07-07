@@ -48,15 +48,15 @@ Ahora est√°s listo para utilizar los cmdlets y comandos proporcionados por el m√
 
 $containername = "files" 
 
-$resourcegroup = "Example-powershell" 
+$resourcegroup = "Example-powershell" ```
 
 \# Obtener el contexto de la cuenta de almacenamiento de Azure 
 
-$storagecontext = (Get-AzStorageAccount -ResourceGroupName $resourcegroup -Name $storageaccountname).Context 
+```$storagecontext = (Get-AzStorageAccount -ResourceGroupName $resourcegroup -Name $storageaccountname).Context ```
 
 \# Crear un nuevo contenedor 
 
-New-AzStorageContainer -Name $containername -Context $storagecontext ```
+```New-AzStorageContainer -Name $containername -Context $storagecontext ```
 
 ![](Images/Aspose.Words.95b7c4b1-67f1-4aad-a5e2-cd2687aa9ba5.003.png)
 

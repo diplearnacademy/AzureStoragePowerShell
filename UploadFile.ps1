@@ -1,0 +1,1 @@
+Set-AzStorageBlobContent -File "Ruta\al\archivo.txt" -Context $storagecontext -Blob "NombreArchivo.txt" -Container $containername 

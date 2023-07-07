@@ -1,0 +1,1 @@
+New-AzStorageAccount -ResourceGroupName Example-powershell -Name dlstoragepowershell -SkuName Standard_LRS -Location 'East US 2' -Kind StorageV2 

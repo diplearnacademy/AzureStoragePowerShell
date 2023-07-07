@@ -1,4 +1,4 @@
-﻿*Laboratorio: Cómo subir archivos a un contenedor en Azure utilizando PowerShell en 5 pasos*
+﻿###Laboratorio: Cómo subir archivos a un contenedor en Azure utilizando PowerShell en 5 pasos
 
 **Objetivo** El objetivo de este laboratorio es aprender cómo subir archivos a un contenedor en Azure utilizando PowerShell.
 
